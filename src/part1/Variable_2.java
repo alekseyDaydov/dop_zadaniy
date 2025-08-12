@@ -1,6 +1,6 @@
 package part1;
 
-public class Variable_1 {
+public class Variable_2 {
     public static void main(String[] args) {
 //        1
 //        У вас есть две переменных, в которых хранятся два целочисленных числа. Напишите программу, которая выводит
